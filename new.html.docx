@@ -1,0 +1,32 @@
+<section class="mirror-art">
+    <div class="art-header">
+        <h2>Mirror Art Gallery</h2>
+        <p>Transforming reflections into masterpieces</p>
+    </div>
+    
+    <div class="art-container">
+        <div class="art-card">
+            <img src="pics/art1.png" alt="Abstract Mirror Art">
+            <div class="art-overlay">
+                <h3>The Sunburst</h3>
+                <p>Hand-crafted gold leaf finish</p>
+            </div>
+        </div>
+
+        <div class="art-card">
+            <img src="pics/art2.png" alt="Geometric Mirror Art">
+            <div class="art-overlay">
+                <h3>Geometric Aura</h3>
+                <p>Modern precision cutting</p>
+            </div>
+        </div>
+
+        <div class="art-card">
+            <img src="pics/art3.png" alt="Classic Mirror Art">
+            <div class="art-overlay">
+                <h3>Vintage Royale</h3>
+                <p>Antique wood carving</p>
+            </div>
+        </div>
+    </div>
+</section>
